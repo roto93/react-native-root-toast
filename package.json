@@ -1,7 +1,7 @@
 {
-    "version": "3.2.1",
-    "name": "react-native-root-toast",
-    "description": "react native toast like component, pure javascript solution",
+    "version": "1.0.0",
+    "name": "roto93/react-native-root-toast",
+    "description": "Everything same as magicismight/react-native-root-toast v3.2.1, but this package ignore the renamed life-cycle event warnings.",
     "repository": {
         "type": "git",
         "url": "https://github.com/magicismight/react-native-root-toast"
