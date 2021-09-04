@@ -1,6 +1,6 @@
 {
     "version": "1.0.0",
-    "name": "roto93/react-native-root-toast",
+    "name": "@roto93/react-native-root-toast",
     "description": "Everything same as magicismight/react-native-root-toast v3.2.1, but this package ignore the renamed life-cycle event warnings.",
     "repository": {
         "type": "git",
