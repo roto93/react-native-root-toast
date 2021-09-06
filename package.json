@@ -4,7 +4,7 @@
     "description": "Everything same as magicismight/react-native-root-toast v3.2.1, but this package ignore the renamed life-cycle event warnings.",
     "repository": {
         "type": "git",
-        "url": "https://github.com/magicismight/react-native-root-toast"
+        "url": "https://github.com/roto93/react-native-root-toast"
     },
     "license": "MIT",
     "main": "./index.js",
